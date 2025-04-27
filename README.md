@@ -1,4 +1,4 @@
-# AirHokey with Hands!
+# AirHockey with Hands!
 
 Have you ever wondered if you could play Air Hockey virtually with your hands?  
 ### Well, now you can!
@@ -16,8 +16,8 @@ The game is played on a virtual table, and you can control the puck with your ha
 ## How to Run the Project
 I suggest installing conda and creating a virtual environment.
 ```bash
-conda create -n airhokey python=3.12
-conda activate airhokey
+conda create -n airhockey python=3.12
+conda activate airhockey
 ```
 Then install the required packages:
 ```bash
